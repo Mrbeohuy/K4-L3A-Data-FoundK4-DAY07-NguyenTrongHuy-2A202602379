@@ -84,6 +84,7 @@ Result: 42 passed
 ```
 
 **Số lượng bài test vượt qua:** 42 / 42
+![alt text](image-1.png)
 
 **Ghi chú chạy `main.py`:** chạy với `PYTHONIOENCODING=utf-8` để tránh lỗi stdout tiếng Việt trên PowerShell/Windows.
 
@@ -139,3 +140,4 @@ TODO - chờ demo và phần so sánh nhóm sau khi R1/R2 gửi kết quả.
 | Dự đoán độ tương tự (Similarity Predictions) | 5 / 5 |
 | Kết quả truy xuất của tôi (Competition Results) | 1 / 10 theo benchmark R3 hiện tại |
 | **Tổng phần cá nhân** | **51 / 60 hiện tại; phần retrieval cần so sánh lại khi R1/R2 có kết quả và/hoặc dùng embedding ngữ nghĩa thật** |
+
